@@ -1,0 +1,12 @@
+ipykernel
+google-cloud-bigquery
+pandas-gbq
+pandas
+google-auth
+pandas-gbq>=0.14.0
+db-dtypes
+yapf
+tqdm
+cryptocode
+matplotlib
+git+https://github.com/innovationOUtside/fstring-magic.git
